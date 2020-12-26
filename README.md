@@ -1,2 +1,2 @@
 # spring-boot-multi-env-app
-Multiple environment file ready spring boot app
+This application enable you to have multiple environment to ready for deployment
